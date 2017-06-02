@@ -1,0 +1,14 @@
+/* Begone browser defaults */
+* {
+  font-size: inherit;
+}
+
+body {
+  font-size: 30px;
+}
+
+main {
+  max-width: 30em;
+  margin: auto;
+  padding: 0.5rem;
+}
